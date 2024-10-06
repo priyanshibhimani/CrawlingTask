@@ -9,9 +9,6 @@ public class Program
 
     public static void Main(string[] args)
     {
-        //AuctionData result = new AuctionData();
-        //result.FetchData();
         Data d = new Data();
-        //DateDemo d1= new DateDemo();
     }
 }
